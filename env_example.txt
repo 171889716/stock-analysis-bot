@@ -1,8 +1,7 @@
 # DeepSeek API配置
-DEEPSEEK_API_KEY=your_deepseek_api_key_here
-
+DEEPSEEK_API_KEY=sk-196f6b3487564e0fa55d9471761fbfa7
 # Tushare配置
-TUSHARE_TOKEN=your_tushare_token_here
+TUSHARE_TOKEN=e816eb8452af6c00b9ad0312d39ec4c7bdf92c269238d934e12c621d
 
 # 可选：修改推送时间（格式：HH:MM）
 DAILY_REPORT_TIME=08:00
